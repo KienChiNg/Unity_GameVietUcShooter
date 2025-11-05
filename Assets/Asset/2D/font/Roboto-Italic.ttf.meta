@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 369f6b32d414ba14e8224c0311a5a6be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3bb41fc263fb2ba47a7841071c3a6a63, type: 3}
+  - {fileID: 12800000, guid: 592dcaa549ed890478156c0a1f1e16d6, type: 3}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  customCharacters: "aA\xE0\xC0\u1EA3\u1EA2\xE3\xC3\xE1\xC1\u1EA1\u1EA0\u0103\u0102\u1EB1\u1EB0\u1EB3\u1EB2\u1EB5\u1EB4\u1EAF\u1EAE\u1EB7\u1EB6\xE2\xC2\u1EA7\u1EA6\u1EA9\u1EA8\u1EAB\u1EAA\u1EA5\u1EA4\u1EAD\u1EACbBcCdD\u0111\u0110eE\xE8\xC8\u1EBB\u1EBA\u1EBD\u1EBC\xE9\xC9\u1EB9\u1EB8\xEA\xCA\u1EC1\u1EC0\u1EC3\u1EC2\u1EC5\u1EC4\u1EBF\u1EBE\u1EC7\u1EC6
+    fFgGhHiI\xEC\xCC\u1EC9\u1EC8\u0129\u0128\xED\xCD\u1ECB\u1ECAjJkKlLmMnNoO\xF2\xD2\u1ECF\u1ECE\xF5\xD5\xF3\xD3\u1ECD\u1ECC\xF4\xD4\u1ED3\u1ED2\u1ED5\u1ED4\u1ED7\u1ED6\u1ED1\u1ED0\u1ED9\u1ED8\u01A1\u01A0\u1EDD\u1EDC\u1EDF\u1EDE\u1EE1\u1EE0\u1EDB\u1EDA\u1EE3\u1EE2pPqQrRsStTuU\xF9\xD9\u1EE7\u1EE6\u0169\u0168\xFA\xDA\u1EE5\u1EE4\u01B0\u01AF\u1EEB\u1EEA\u1EED\u1EEC\u1EEF\u1EEE\u1EE9\u1EE8\u1EF1\u1EF0vVwWxXyY\u1EF3\u1EF2\u1EF7\u1EF6\u1EF9\u1EF8\xFD\xDD\u1EF5\u1EF4zZ"
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

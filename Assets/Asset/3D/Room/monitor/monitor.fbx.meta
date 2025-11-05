@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: ec8c5fb5514d42d4ab9d2e24a336fcee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: monitor:daxanhla
+    100004: monitor:daxanhlaBaseWire
+    100006: monitor:daydo
+    100008: monitor:daydo1
+    100010: monitor:daydoBaseWire
+    100012: monitor:dayvang
+    100014: monitor:dayvang1
+    100016: monitor:dayvangBaseWire
+    100018: monitor:dayxanh
+    100020: monitor:diencuc_do
+    100022: monitor:diencuc_vang
+    100024: monitor:diencuc_xanh
+    100026: monitor:dientim
+    100028: monitor:dientim1
+    100030: monitor:dientimBaseWire
+    100032: monitor:huyetap
+    100034: monitor:huyetap1
+    100036: monitor:huyetap1BaseWire
+    100038: monitor:huyetap2
+    100040: monitor:huyetap_bao
+    100042: monitor:huyetapBaseWire
+    100044: monitor:monitor 1
+    100046: monitor:polySurface17
+    100048: monitor:polySurface25
+    100050: monitor:polySurface28
+    100052: monitor:polySurface29
+    100054: monitor:polySurface33
+    100056: monitor:polySurface6
+    100058: monitor:spo2
+    100060: monitor:spo2BaseWire
+    100062: monitor:spo2xanh
+    100064: monitor:spo2xanh1
+    100066: monitor:spo2xanhBaseWire
+    100068: monitor:spo3
+    400000: //RootNode
+    400002: monitor:daxanhla
+    400004: monitor:daxanhlaBaseWire
+    400006: monitor:daydo
+    400008: monitor:daydo1
+    400010: monitor:daydoBaseWire
+    400012: monitor:dayvang
+    400014: monitor:dayvang1
+    400016: monitor:dayvangBaseWire
+    400018: monitor:dayxanh
+    400020: monitor:diencuc_do
+    400022: monitor:diencuc_vang
+    400024: monitor:diencuc_xanh
+    400026: monitor:dientim
+    400028: monitor:dientim1
+    400030: monitor:dientimBaseWire
+    400032: monitor:huyetap
+    400034: monitor:huyetap1
+    400036: monitor:huyetap1BaseWire
+    400038: monitor:huyetap2
+    400040: monitor:huyetap_bao
+    400042: monitor:huyetapBaseWire
+    400044: monitor:monitor 1
+    400046: monitor:polySurface17
+    400048: monitor:polySurface25
+    400050: monitor:polySurface28
+    400052: monitor:polySurface29
+    400054: monitor:polySurface33
+    400056: monitor:polySurface6
+    400058: monitor:spo2
+    400060: monitor:spo2BaseWire
+    400062: monitor:spo2xanh
+    400064: monitor:spo2xanh1
+    400066: monitor:spo2xanhBaseWire
+    400068: monitor:spo3
+    2100000: monitor_monitor1
+    2100002: monitor_daynoimonitor
+    2100004: monitor_dohuyetap
+    2300000: monitor:daydo
+    2300002: monitor:dayvang
+    2300004: monitor:dayxanh
+    2300006: monitor:diencuc_do
+    2300008: monitor:diencuc_vang
+    2300010: monitor:diencuc_xanh
+    2300012: monitor:dientim
+    2300014: monitor:huyetap
+    2300016: monitor:huyetap_bao
+    2300018: monitor:monitor 1
+    2300020: monitor:polySurface17
+    2300022: monitor:polySurface25
+    2300024: monitor:polySurface28
+    2300026: monitor:polySurface29
+    2300028: monitor:polySurface33
+    2300030: monitor:polySurface6
+    2300032: monitor:spo2
+    2300034: monitor:spo2xanh
+    3300000: monitor:daydo
+    3300002: monitor:dayvang
+    3300004: monitor:dayxanh
+    3300006: monitor:diencuc_do
+    3300008: monitor:diencuc_vang
+    3300010: monitor:diencuc_xanh
+    3300012: monitor:dientim
+    3300014: monitor:huyetap
+    3300016: monitor:huyetap_bao
+    3300018: monitor:monitor 1
+    3300020: monitor:polySurface17
+    3300022: monitor:polySurface25
+    3300024: monitor:polySurface28
+    3300026: monitor:polySurface29
+    3300028: monitor:polySurface33
+    3300030: monitor:polySurface6
+    3300032: monitor:spo2
+    3300034: monitor:spo2xanh
+    4300000: monitor:monitor
+    4300002: monitor:dientim
+    4300004: monitor:spo2xanh
+    4300006: monitor:polySurface28
+    4300008: monitor:polySurface29
+    4300010: monitor:spo2
+    4300012: monitor:huyetap
+    4300014: monitor:daydo
+    4300016: monitor:dayvang
+    4300018: monitor:dayxanh
+    4300020: monitor:diencuc_do
+    4300022: monitor:polySurface25
+    4300024: monitor:diencuc_vang
+    4300026: monitor:polySurface6
+    4300028: monitor:diencuc_xanh
+    4300030: monitor:polySurface17
+    4300032: monitor:huyetap_bao
+    4300034: monitor:polySurface33
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 11
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
