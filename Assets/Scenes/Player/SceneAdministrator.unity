@@ -9530,6 +9530,8 @@ MonoBehaviour:
   timeShot:
   - {fileID: 709776085}
   winnerPing: {fileID: 0}
+  _5G: {fileID: 0}
+  otherNk: {fileID: 0}
 --- !u!1 &661124311
 GameObject:
   m_ObjectHideFlags: 0
@@ -10979,7 +10981,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8fafcfd617c5c3249bd465f78cdb43d7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 11cd8ade5a4f5294c983b3da6aeb43aa, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
